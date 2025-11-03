@@ -46,7 +46,7 @@ export const LotteryTicketVisual: React.FC<LotteryTicketVisualProps> = ({ number
         
         <div className="text-[6px] md:text-[7px] text-center">
             <p className="tracking-widest">||||| |||||||||| |||||| |||||</p>
-            <p className="font-mono tracking-wider">{number}010000>0000000000</p>
+            <p className="font-mono tracking-wider">{number}010000&gt0000000000</p>
         </div>
       </div>
     </div>
