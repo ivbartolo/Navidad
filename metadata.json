@@ -1,0 +1,7 @@
+{
+  "name": "Lotería",
+  "description": "Una aplicación para gestionar tus décimos de la Lotería de Navidad. Añade, comprueba premios y visualiza estadísticas de tu inversión y ganancias.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
